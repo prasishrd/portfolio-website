@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This repository contains the code for 
 
 ## Live Site
 
-Check out the live version of my portfolio at: [https://prasishrd.github.io/portfolio-website/]([https://your-portfolio-url.com](https://prasishrd.github.io/portfolio-website/))
+Check out the live version of my portfolio at: [https://prasishrd.github.io/portfolio-website/]([https://your-portfolio-url.com](https://prasishrd.github.io/portfolio-website/)
 
 ## Features
 
