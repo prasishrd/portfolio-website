@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website! This repository contains the code for my online portfolio, where I showcase my skills, projects, and experience.
 
+## Live Site
+
+Check out the live version of my portfolio at: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+
 ## Features
 
 - **Showcase of Projects**: Highlights various projects and achievements.
